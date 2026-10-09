@@ -30,6 +30,7 @@
     {"name": "CSS", "extensions": ["css"], "color": "#563D7C", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"}
   ],
   "v2": {
+    "show_terminal_header": false,
     "v2_terminal_user": "vinicius",
     "v2_terminal_hostname": "github",
     "v2_colors_light_theme": {"title_color": "#24292f", "terminal_color": "#0969da", "text_color": "#57606a", "percentage_color": "#24292f", "background_color": "#ffffff", "border_color": "#d0d7de"},

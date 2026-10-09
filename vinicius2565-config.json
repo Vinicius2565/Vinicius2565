@@ -1,0 +1,41 @@
+{
+  "title": "Vinicius2565 — Most Used Languages",
+  "custom_image": "https://raw.githubusercontent.com/Vinicius2565/Vinicius2565/main/assets/vinicius2565-avatar.png",
+  "colors_light_theme": {
+    "title_color": "#24292f",
+    "text_color": "#57606a",
+    "percentage_color": "#24292f",
+    "background_color": "#ffffff",
+    "border_color": "#d0d7de"
+  },
+  "colors_dark_theme": {
+    "title_color": "#f0f6fc",
+    "text_color": "#c9d1d9",
+    "percentage_color": "#f0f6fc",
+    "background_color": "#0d1117",
+    "border_color": "#30363d"
+  },
+  "disable_languages": ["HTML"],
+  "languages": [
+    {"name": "Python", "extensions": ["py", "pyw", "ipynb"], "color": "#3572A5", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"},
+    {"name": "JavaScript", "extensions": ["js", "mjs", "cjs", "jsx"], "color": "#F1E05A", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"},
+    {"name": "TypeScript", "extensions": ["ts", "tsx"], "color": "#3178C6", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"},
+    {"name": "Java", "extensions": ["java"], "color": "#B07219", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"},
+    {"name": "C#", "extensions": ["cs"], "color": "#178600", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"},
+    {"name": "C", "extensions": ["c", "h"], "color": "#555555", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"},
+    {"name": "C++", "extensions": ["cpp", "cc", "cxx", "hpp"], "color": "#F34B7D", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"},
+    {"name": "Go", "extensions": ["go"], "color": "#00ADD8", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"},
+    {"name": "Rust", "extensions": ["rs"], "color": "#DEA584", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"},
+    {"name": "Shell", "extensions": ["sh", "bash"], "color": "#89E051", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"},
+    {"name": "CSS", "extensions": ["css"], "color": "#563D7C", "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"}
+  ],
+  "v2": {
+    "v2_terminal_user": "vinicius",
+    "v2_terminal_hostname": "github",
+    "v2_colors_light_theme": {"title_color": "#24292f", "terminal_color": "#0969da", "text_color": "#57606a", "percentage_color": "#24292f", "background_color": "#ffffff", "border_color": "#d0d7de"},
+    "v2_colors_dark_theme": {"title_color": "#f0f6fc", "terminal_color": "#58a6ff", "text_color": "#c9d1d9", "percentage_color": "#f0f6fc", "background_color": "#0d1117", "border_color": "#30363d"},
+    "custom_info": {"GitHub": ".................. Vinicius2565", "Location": "................. Brazil", "Status": "................... coding"},
+    "ascii_type": {"light": "", "dark": "focus-white"},
+    "ascii_size": {"light": 50, "dark": 50}
+  }
+}
